@@ -1,6 +1,7 @@
 {
 	"author": "Usefull Programmer",
 	"description": "Managing packages with NPM the free code camp way",
+	"keywords": ["descriptive","freecodecamp","coding"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
